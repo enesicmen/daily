@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "243825964491",
+    "project_id": "daily-86ae0",
+    "storage_bucket": "daily-86ae0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243825964491:android:8dee3c95e23ea24f40b24e",
+        "android_client_info": {
+          "package_name": "com.icmen.daily"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmZsqG5YIogNlWKYv9BCmPTs-_x76i998"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
